@@ -10,5 +10,6 @@ Artificial Intelligence (AI) Assignments From PIAIC
 
 <br/>
 <br/>
+
 **_Join Our AI Group on [Signal](https://signal.group/#CjQKIFdd0dYL-h5ZKaKDQ-BfoDWwfIhKqpPGZfuXh_kbljqZEhBb2OFvrc1VZrYU9ZnsoOq0)_**
-***Checkout Other Repositories by [Sameer Katija](https://www.github.com/Anonster)***
+**_Checkout Other Repositories by [Sameer Katija](https://www.github.com/Anonster)_**
