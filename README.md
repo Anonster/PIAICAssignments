@@ -15,6 +15,16 @@ Artificial Intelligence (AI) Assignments From PIAIC
 
 **_Checkout Other Learning [Resources](https://github.com/Anonster/resources)_**
 
+**_Q2 Artificial Intelligence [FAQs](http://ask.piaic.org/Q2-AI-FAQ)_**
+
+**_Q2 AI [Recorded Videos](https://drive.google.com/drive/folders/1WMD-TR7Dv5We4lWn_JZGv_abFcaz4EAp?fbclid=IwAR2WzD7R0BBeXg9UwwTHAz1sYmB32GIXUXt3oZdidF-BXZNOY2EXGypznHQ)_**
+
+**_Assignment Submission [Form](https://docs.google.com/forms/d/e/1FAIpQLSfs5IzTlirjDzoX8iQTMRyHLG8Nt2p0UQY-isvTYtPevbtnCQ/viewform)_**
+
+**_Slack [Channel](https://piaic-aic.slack.com/?redir=/archives/C01GMHMBRFH)_**
+
+**_PIAIC Official Q2 [Repo](https://github.com/piaic-official/AI-Q2-learning-resources)_**
+
 <br/>
 
 **_Checkout Other Repositories by [Sameer Katija](https://www.github.com/Anonster)_**
