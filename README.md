@@ -29,4 +29,6 @@ Artificial Intelligence (AI) Assignments From PIAIC
 
 **_PIAIC Official [Facebook Group](https://web.facebook.com/groups/piaic)_**
 
+<hr/>
+
 **_Checkout Other Repositories by [Sameer Katija](https://www.github.com/Anonster)_**
