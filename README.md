@@ -25,6 +25,8 @@ Artificial Intelligence (AI) Assignments From PIAIC
 
 **_PIAIC Official Q2 [Repo](https://github.com/piaic-official/AI-Q2-learning-resources)_**
 
-<br/>
+**_PIAIC Official [Facebook Page](https://web.facebook.com/piaic)_**
+
+**_PIAIC Official [Facebook Group](https://web.facebook.com/groups/piaic)_**
 
 **_Checkout Other Repositories by [Sameer Katija](https://www.github.com/Anonster)_**
